@@ -1,0 +1,33 @@
+body{
+    font-family:fantasy;
+    color:cyan;
+    font-size: 22px;
+    background-image: url(images/123123.jpg);
+    width: 50%;
+    margin: auto;
+}
+h1{
+    background-color: rebeccapurple;
+        border-bottom: solid 20px rebaccapurple;
+    text-align: center
+}
+.malzemeler{
+    color: burlywood
+}
+.başlık{
+    color:darkred
+}
+p{
+    text-align: center
+}
+#yazi {
+    font-family: fantasy
+ font-size:18px;
+    color: darkblue;
+}
+img{
+    display: block
+        widht 60%;
+    border: dotted 5px black;
+    border-radius: 50%
+}
